@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 Inventory management system/1 Inventory management system.iml" filepath="$PROJECT_DIR$/1 Inventory management system/1 Inventory management system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 E commerce platform search/2 E commerce platform search.iml" filepath="$PROJECT_DIR$/2 E commerce platform search/2 E commerce platform search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Sorting customer orders/3 Sorting customer orders.iml" filepath="$PROJECT_DIR$/3 Sorting customer orders/3 Sorting customer orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 Employee Management system/4 Employee Management system.iml" filepath="$PROJECT_DIR$/4 Employee Management system/4 Employee Management system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 Task management system/5 Task management system.iml" filepath="$PROJECT_DIR$/5 Task management system/5 Task management system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 Library management system/6 Library management system.iml" filepath="$PROJECT_DIR$/6 Library management system/6 Library management system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Financial Forecasting/7 Financial Forecasting.iml" filepath="$PROJECT_DIR$/7 Financial Forecasting/7 Financial Forecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data structures &amp; algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data structures &amp; algorithms.iml" />
+    </modules>
+  </component>
+</project>
